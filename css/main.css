@@ -1,0 +1,31 @@
+input{
+    border-radius: 5px;
+}
+
+.cunter{
+    /* height: 15px; */
+}
+
+.cunter-back{
+    height: 20px;
+    width: 60%;
+    position: absolute;
+    top: 258px;
+    z-index: -10;
+}
+
+.cunter-time{
+
+    width: 160px;
+    height: 85px;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+span{
+    font-size: 17px !important;
+    width: 35px;
+    height: 35px;
+    border-radius: 100% !important;
+    margin-right: 7px ;
+}
